@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a passionate developer currently building my 
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently learning **Java**, **DSA (using C)**, and **DBMS**.
-- ✅ I have a solid foundation in **C** and **C++**.
+- ✅ I have  a solid foundation in **C** and **C++**.
 - 🔭 I’m looking forward to mastering **Git** and building projects with **Spring Boot**.
 - 🤖 I have a strong interest in **Artificial Intelligence** and plan to explore machine learning and AI algorithms!
 - 💬 Ask me about my journey with C/C++, DSA, or what I'm currently working on!
